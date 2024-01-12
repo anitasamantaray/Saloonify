@@ -24,6 +24,7 @@
       },
       "package": "com.anitasamantaray.project1"
     },
+    "scheme": "exponavigation",
     "web": {
       "favicon": "./assets/favicon.png"
     },
